@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Movies>
+  <Movie url="C:\Users\User\Downloads\First.Man.2018.IMAX.720p.BluRay.2CH.x265.HEVC-PSA\First.Man.2018.IMAX.720p.BluRay.2CH.x265.HEVC-PSA.mkv">
+    <Id>1</Id>
+    <Title>first man</Title>
+    <Director>demian shizel</Director>
+    <Category>biography</Category>
+    <Rating>★★★✩✩</Rating>
+    <Year>2018</Year>
+    <Description>good</Description>
+  </Movie>
+  <Movie url="E:\A.Quiet.Place.2018.720p.BrRip.2CH.x265.HEVC-PSA\A.Quiet.Place.2018.720p.BrRip.2CH.x265.HEVC-PSA.mkv">
+    <Id>2</Id>
+    <Title>A quiet place</Title>
+    <Director>john krasanski</Director>
+    <Category>horror</Category>
+    <Rating>★★★★★</Rating>
+    <Year>2018</Year>
+    <Description>good</Description>
+  </Movie>
+  <Movie url="C:\Users\User\Downloads\BlacKkKlansman.2018.720p.10bit.BluRay.6CH.x265.HEVC-PSA\BlacKkKlansman.2018.720p.10bit.BluRay.6CH.x265.HEVC-PSA.mkv">
+    <Id>3</Id>
+    <Title>BlackKklasman</Title>
+    <Director>Jordan Pile</Director>
+    <Category>Drama</Category>
+    <Rating>★★★✩✩</Rating>
+    <Year>2018</Year>
+    <Description>awsome</Description>
+  </Movie>
+  <Movie url="C:\Users\User\Downloads\Video\Diamond.Dust.2018.WEB-DL.720p.x264.mp4">
+    <Id>4</Id>
+    <Title>Diamond dust</Title>
+    <Director>marwan  hamed</Director>
+    <Category>Drama</Category>
+    <Rating>★✩✩✩✩</Rating>
+    <Year>2018</Year>
+    <Description>awsome</Description>
+  </Movie>
+  <Movie url="C:\Users\User\Downloads\Tom.and.Jerry.The.Golden.Collection.Volume.One.1940-1948.720p.BrRip.x265.HEVC-PSA\Tom.and.Jerry.E08.Fine.Feathered.Friend.720p.BrRip.x265.HEVC-PSA.mkv">
+    <Id>5</Id>
+    <Title>Tom and Jerry</Title>
+    <Director>Hanna-Barbera</Director>
+    <Category>comedy</Category>
+    <Rating>★★★★★</Rating>
+    <Year>1957</Year>
+    <Description>just une episode</Description>
+  </Movie>
+  <Movie url="E:\Coco.2017.720p.BrRip.2CH.x265.HEVC-PSA\Coco.2017.720p.BrRip.2CH.x265.HEVC-PSA.mkv">
+    <Id>6</Id>
+    <Title>Coco</Title>
+    <Director>Lee Unkrich</Director>
+    <Category>Animation</Category>
+    <Rating>★★★★★</Rating>
+    <Year>2017</Year>
+    <Description>good</Description>
+  </Movie>
+  <Movie url="E:\Inception (2010)\Inception.2010.720p.x264.mkv">
+    <Id>7</Id>
+    <Title>inception</Title>
+    <Director>C.Nolan</Director>
+    <Category>Sci-fi</Category>
+    <Rating>★★★★★</Rating>
+    <Year>2010</Year>
+    <Description>Spectaculare</Description>
+  </Movie>
+  <Movie url="E:\Avengers.Infinity.War.2018.720p.10bit.BluRay.6CH.x265.HEVC-PSA\Avengers.Infinity.War.2018.720p.10bit.BluRay.6CH.x265.HEVC-PSA.mkv">
+    <Id>8</Id>
+    <Title>Avangers infinity war</Title>
+    <Director>B.Russo</Director>
+    <Category>Fantasy</Category>
+    <Rating>★★★★★</Rating>
+    <Year>2018</Year>
+    <Description>Spectaculare</Description>
+  </Movie>
+  <Movie url="E:\Life of Pi (2012)\Life.of.Pi.2012.720p.BRrip.x264.GAZ.YIFY.mp4">
+    <Id>9</Id>
+    <Title>Life of Pi</Title>
+    <Director>Ang Lee</Director>
+    <Category>Fantasy</Category>
+    <Rating>★★★★★</Rating>
+    <Year>2012</Year>
+    <Description>good</Description>
+  </Movie>
+  <Movie url="E:\Mission.Impossible.Fallout.2018.IMAX.720p.10bit.BluRay.6CH.x265.HEVC-PSA\Mission.Impossible.Fallout.2018.IMAX.720p.10bit.BluRay.6CH.x265.HEVC-PSA.mkv">
+    <Id>10</Id>
+    <Title>MI6</Title>
+    <Director>C.McQuarrie</Director>
+    <Category>Action</Category>
+    <Rating>★★★★✩</Rating>
+    <Year>2018</Year>
+    <Description>good</Description>
+  </Movie>
+  <Movie url="E:\The.Incredibles.2004.720p.10bit.BrRip.6CH.x265.HEVC-PSA\The.Incredibles.2004.720p.10bit.BrRip.6CH.x265.HEVC-PSA.mkv">
+    <Id>11</Id>
+    <Title>The incredibles</Title>
+    <Director>B.Bird</Director>
+    <Category>Animation</Category>
+    <Rating>★★★✩✩</Rating>
+    <Year>2004</Year>
+    <Description>goog</Description>
+  </Movie>
+  <Movie url="E:\The.Matrix.1999.720p.10bit.BluRay.6CH.x265.HEVC-PSA\The.Matrix.1999.720p.10bit.BluRay.6CH.x265.HEVC-PSA.mkv">
+    <Id>12</Id>
+    <Title>The Matrix</Title>
+    <Director>S.Wachowski</Director>
+    <Category>Sci-fi</Category>
+    <Rating>★★★★✩</Rating>
+    <Year>1999</Year>
+    <Description>awsome</Description>
+  </Movie>
+  <Movie url="E:\Carnaval fi Dachra.avi">
+    <Id>13</Id>
+    <Title>Carnaval fi dachera</Title>
+    <Director>ENTV</Director>
+    <Category>Comedy</Category>
+    <Rating>★★★★✩</Rating>
+    <Year>1994</Year>
+    <Description>arabic</Description>
+  </Movie>
+  <Movie url="E:\Exam (2009)\Exam.2009.720p.BluRay.x264.YIFY.mp4">
+    <Id>14</Id>
+    <Title>Exam</Title>
+    <Director>S.Hazeldine</Director>
+    <Category>Mystery</Category>
+    <Rating>★★★★✩</Rating>
+    <Year>2009</Year>
+    <Description>good</Description>
+  </Movie>
+  <Movie url="E:\The Imitation Game (2014)\The.Imitation.Game.2014.BRRip.XviD.AC3-EVO.mp4">
+    <Id>15</Id>
+    <Title>Imitation Game</Title>
+    <Director>M.kean</Director>
+    <Category>Biography</Category>
+    <Rating>★★★★✩</Rating>
+    <Year>2014</Year>
+    <Description>alan turing</Description>
+  </Movie>
+  <Movie url="E:\Searching.2018.720p.10bit.BluRay.6CH.x265.HEVC-PSA\Searching.2018.720p.10bit.BluRay.6CH.x265.HEVC-PSA.mkv">
+    <Id>16</Id>
+    <Title>Searching</Title>
+    <Director>A.Chaganty</Director>
+    <Category>Thriller</Category>
+    <Rating>★★★★✩</Rating>
+    <Year>2018</Year>
+    <Description>good</Description>
+  </Movie>
+  <Movie url="E:\The Departed (2006)\The.Departed.2006.720p.BrRip.x264.YIFY.mp4">
+    <Id>17</Id>
+    <Title>The departed</Title>
+    <Director>M.scorsese</Director>
+    <Category>Crime</Category>
+    <Rating>★★★★★</Rating>
+    <Year>2006</Year>
+    <Description>awesome</Description>
+  </Movie>
+  <Movie url="E:\Deadpool.2016.720p.BluRay.900MB.ShAaNiG\Deadpool.2016.720p.BluRay.900MB.ShAaNiG.mkv">
+    <Id>18</Id>
+    <Title>Deadpool</Title>
+    <Director>T.miller</Director>
+    <Category>Comedy</Category>
+    <Rating>★★★★★</Rating>
+    <Year>2016</Year>
+    <Description>awesome</Description>
+  </Movie>
+  <Movie url="E:\Logan (2017) [YTS.AG]\Logan.2017.720p.BluRay.x264-[YTS.AG].mp4">
+    <Id>19</Id>
+    <Title>Logan</Title>
+    <Director>J.Mangold</Director>
+    <Category>Drama</Category>
+    <Rating>★★★★✩</Rating>
+    <Year>2017</Year>
+    <Description>awesome</Description>
+  </Movie>
+  <Movie url="E:\The Usual Suspects (1995)\The.Usual.Suspects.1995.720p.BluRay.DTS.x264-ESiR.mkv">
+    <Id>20</Id>
+    <Title>The usual sespect</Title>
+    <Director>B.Singer</Director>
+    <Category>Mystery</Category>
+    <Rating>★★★★★</Rating>
+    <Year>1995</Year>
+    <Description>awesome</Description>
+  </Movie>
+  <Movie url="E:\500 Days of Summer (2009)\500.Days.of.Summer.2009.720p.BRRip.XviD.AC3-ViSiON.mp4">
+    <Id>21</Id>
+    <Title>500 days at summer</Title>
+    <Director>M.jack</Director>
+    <Category>Romance</Category>
+    <Rating>★★★✩✩</Rating>
+    <Year>2009</Year>
+    <Description>good</Description>
+  </Movie>
+  <Movie url="E:\Nightcrawler (2014)\Nightcrawler.2014.720p.BluRay.x264.YIFY.mp4">
+    <Id>22</Id>
+    <Title>Nightcrawler</Title>
+    <Director>Dan Gilroy</Director>
+    <Category>thriller</Category>
+    <Rating>★★★✩✩</Rating>
+    <Year>2014</Year>
+    <Description>awesome</Description>
+  </Movie>
+  <Movie url="E:\Primal Fear (1996)\Primal.Fear.1996.720p.BluRay.x264.YIFY.mkv">
+    <Id>23</Id>
+    <Title>Primal Fear</Title>
+    <Director>D.lynch</Director>
+    <Category>Mystery</Category>
+    <Rating>★★★★✩</Rating>
+    <Year>1996</Year>
+    <Description>good</Description>
+  </Movie>
+  <Movie url="E:\Taxi Driver (1976)\Taxi Driver 1976 720p BrRip x264 YIFY.mkv">
+    <Id>24</Id>
+    <Title>Taxi Driver</Title>
+    <Director>M.scorsese</Director>
+    <Category>Drama</Category>
+    <Rating>★★★★✩</Rating>
+    <Year>1976</Year>
+    <Description>good</Description>
+  </Movie>
+  <Movie url="C:\Users\User\Downloads\Love and Other Drugs (2010)\Love.And.Other.Drugs.YIFY.mkv">
+    <Id>25</Id>
+    <Title>A</Title>
+    <Director>a</Director>
+    <Category>Comedy</Category>
+    <Rating>★★★★✩</Rating>
+    <Year>2018</Year>
+    <Description>good</Description>
+  </Movie>
+</Movies>
+
